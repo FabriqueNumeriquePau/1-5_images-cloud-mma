@@ -17,4 +17,4 @@ Agissez en groupes de deux à trois personnes. L'organisation sera faite par vot
 Pour l'organisation, il ne s'agit pas de créer une gestion de projet mais de rester en contact avec vos membres du groupe pour avancer collectivement. La note finale sera attribuée au groupe en évaluant le projet le moins abouti. Restez solidaires.  
 Vous êtes autorisés à échanger des informations entre vous sauf avec Alaa et Oussama. Ils constituent un binôme qui est votre adversaire direct, à tous.  
 Alaa et Oussama, vous êtes un groupe face à la promotion. Vous devez faire mieux à vous deux que tous les autres.
-Les chronos sont lancés. Normalement 3h30.
+Les chronos sont lancés. Normalement 3h30.# mma
